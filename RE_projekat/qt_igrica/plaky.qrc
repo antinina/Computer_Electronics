@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/slike">
+        <file>slike/plaky.jpg</file>
+        <file>slike/the_pirate_bay.jpg</file>
+    </qresource>
+</RCC>
