@@ -1,4 +1,4 @@
-#Course: Computer Electronics
+# Course: Computer Electronics
 ## Project
 
   - Developed a **Battleship game** application that runs on a **Raspberry Pi**,
